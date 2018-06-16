@@ -1,9 +1,10 @@
 {
-is_run_mode: "true",
-name: "Live Soccer TV 2018",
-uri_current: "https://raw.githubusercontent.com/livesoccerapp/livesoccerapptv/master/fifa-soccer-livetv.apk",
-version_code_current: "1",
-version_code_min: "9",
-update_info: "Bugs fixed",
-update_date: "06/16/2018"
+  "latestVersion": "1.0",
+  "latestVersionCode": ,
+  "url": "http://bit.ly/fifalivetvsoccerapp",
+  "releaseNotes": [
+    "- First evolution",
+    "- Second evolution",
+    "- Bug fixes"
+  ]
 }
