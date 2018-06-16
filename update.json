@@ -1,0 +1,9 @@
+{
+is_run_mode: "true",
+name: "Live Soccer TV 2018",
+uri_current: "https://firebasestorage.googleapis.com/v0/b/livesoccerapp-ff733.appspot.com/o/app-release.apk?alt=media&token=33564ca6-f869-49ca-8c28-3c987d1f1138",
+version_code_current: "1",
+version_code_min: "9",
+update_info: "Bugs fixed",
+update_date: "06/16/2018"
+}
